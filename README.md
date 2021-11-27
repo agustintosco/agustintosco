@@ -4,14 +4,14 @@
 
 ### 👋 Profile
 - I am an Electronic Engineer looking for my first professional experience in the IT world.
-- I am eager to learn all kinds of technologies, specially I am oriented to backend technologies.
-- I’ve worked in some software projects during my college period, mostly related to electronic devices, including technologies as ASM, C and C++.
+- I am eager to learn all kinds of technologies, especially I am oriented to backend technologies.
+- I’ve worked on some software projects during my college period, mostly related to electronic devices, including technologies as ASM, C and C++.
 
 ---
 
 ## 📚 Professional Background
 - I got my Electronic Engineering degree in 2017.
-- Since beginning of 2020, I've been studying and learning about the IT world.
+- Since the beginning of 2020, I've been studying and learning about the IT world.
 - From September, I am part of Alpha Rooftop Bootcamp https://www.rooftopacademy.com/
 - From several years ago, I've been studying and getting into the economics and finance field. They are, besides software development, another of my passions.
 
@@ -23,7 +23,7 @@
 - Interpersonal relationships
 - Flexibility
 - Adaptability
-- 🌎 I speak Spanish (native-speaker), English (fluent) and Italian (upper-intermediate)
+- 🌎 I speak Spanish (native speaker), English (fluent) and Italian (upper-intermediate)
 
 ---
 
