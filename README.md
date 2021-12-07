@@ -40,7 +40,26 @@
 
 ---
 
-## 👀 Interests
+
+## 🗺️ How to find me?
+
+```js   
+switch (whereToFindMe) {
+    case 'email':
+        'agustintosco.92@gmail.com'
+        break;
+    case 'linkedIn':
+        'https://www.linkedin.com/in/agustin-tosco/'
+        break;
+    case 'dev.to':
+        'https://dev.to/agustintosco'
+        break;
+}
+
+```
+---
+
+## 👀 What else I am interested in
 - Indie & Alternative Music
 - Basketball
 - Mythical & Fantasy novels
@@ -51,8 +70,5 @@
 - Psychology
 - Finance & Economy
 
----
 
-## 🗺️ How to find me?
 
-- 📫 You can reach me by email: agustintosco.92@gmail.com or by LinkedIn: https://www.linkedin.com/in/agustin-tosco/
