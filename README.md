@@ -46,13 +46,13 @@
 ```js   
 switch (whereToFindMe) {
     case 'email':
-        'agustintosco.92@gmail.com'
+        'agustintosco.92@gmail.com';
         break;
     case 'linkedIn':
-        'https://www.linkedin.com/in/agustin-tosco/'
+        'https://www.linkedin.com/in/agustin-tosco/';
         break;
     case 'dev.to':
-        'https://dev.to/agustintosco'
+        'https://dev.to/agustintosco';
         break;
 }
 
